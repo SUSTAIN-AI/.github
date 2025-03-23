@@ -28,7 +28,7 @@ Our mission is to deliver a sustainable, high-efficiency alternative to major la
 
 ## Documentation
 
-See the SUSTAIN documentation here: [SUSTAIN Docs}(https://sustain.hashnode.space/)
+See the SUSTAIN documentation here: [SUSTAIN Docs](https://sustain.hashnode.space/)
 
 ---
 
